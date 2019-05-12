@@ -1,0 +1,18 @@
+spring.data.mongodb.uri: mongodb://estore:123456%407B8c9@ecommerceapp2019npt-shard-00-00-dxtgd.azure.mongodb.net:27017,ecommerceapp2019npt-shard-00-01-dxtgd.azure.mongodb.net:27017,ecommerceapp2019npt-shard-00-02-dxtgd.azure.mongodb.net:27017/estore?ssl=true&replicaSet=ecommerceapp2019npt-shard-0&authSource=admin&retryWrites=true
+server.servlet.session.timeout: 60m
+
+
+#
+#tracer.property: "I AM THE DEFAULT"
+#spring.jpa.database: "POSTGRESQL"
+#spring.datasource.platform: "postgres"
+#spring.jpa.show-sql: "true"
+#spring.database.driverClassName: "org.postgresql.Driver"
+#spring.datasource.url: "jdbc:postgresql://localhost:5432/eagle_eye_local"
+#spring.datasource.username: "postgres"
+#spring.datasource.password: "password"
+#spring.datasource.testWhileIdle: "true"
+#spring.datasource.validationQuery: "SELECT 1"
+#spring.jpa.hibernate.ddl-auto: "update"
+#spring.jpa.properties.hibernate.dialect:
+#  "org.hibernate.dialect.PostgreSQLDialect"
